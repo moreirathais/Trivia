@@ -1,0 +1,22 @@
+body {
+	font-family: arial;
+	background-color: #ffde59;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: right center;
+	color: black;
+}
+
+form {
+	border: 2px solid black;
+}
+
+p {
+	border-bottom: 2px solid black;
+	font-weight:bold;
+	
+}
+
+.hidden {
+	display: none;
+}
